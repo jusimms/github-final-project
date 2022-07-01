@@ -8,4 +8,4 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**t,** time period in years<br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**r,** annual rate of interest<br>
 **Output**<br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**simple interest** = p&#42;t&#42;r
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**simple interest** = p&#10035;t&#10035;r
